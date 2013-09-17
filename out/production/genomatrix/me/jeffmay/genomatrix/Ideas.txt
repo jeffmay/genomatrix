@@ -1,0 +1,19 @@
+Genomatrix:
+
+Ideas:
+- Separate Model and View of BoxGameModel and GameWindow.
+- Separate Metrics and View
+- Add Genes, GeneFactory, and other Games
+- Allow any number of bits (BigInteger).
+- Code optimization (mapPairsExclusive)
+- Specific color models (one for last two move niceness)
+   - Forgiveness
+   - Retaliation
+   - Parent
+- Automatically keep N top best algorithms to analyze
+- Allow for sources and sinks (unchanging genome, use for memetics?)
+- Superrationality / Self-preservation for optimization.
+- Two layer board (Meme model?)
+
+? Translate to Ruby, Groovy, or Python for dynamic type casting
+? 3D model for graphics
